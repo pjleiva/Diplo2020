@@ -1,6 +1,6 @@
 ## Diplomatura en Ciencia de Datos y Aprendezaje Automático 2020 - FaMaFyC
 
-Análisis y Visualización
+Análisis y Curacion
 =======================
 
 ### Grupo 10 (segunda cohorte)
